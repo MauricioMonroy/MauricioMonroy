@@ -26,7 +26,7 @@
      
  or
     
-     mauricio.monroy0@soy.sena.edu.co.
+     mauricio.monroy0@soy.sena.edu.co
 
 
 #### Fun fact
