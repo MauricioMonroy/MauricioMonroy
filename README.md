@@ -8,9 +8,7 @@
     
   I'm more interested in how the human mind works than in the specific ways it manifests in individuals. While personal stories are fascinating, I'm more interested in the underlying principles of our shared existence. After a lot of thought and with the global shift brought about by the coronavirus pandemic in mind, I decided to revisit a childhood fascination – computer science and informatics. 
     
-  This field, which I had admired from afar even as I pursued psychology, suddenly became accessible through online courses and virtual learning. My goal is to land a job as a software developer. It’s a role that not only aligns with my personal interests but is also in high demand in today’s job market. 
-    
-  I know my age might be seen as a disadvantage when competing with younger individuals who are also eager to enter this field. However, I possess a unique set of skills and insights that are not commonly found. My ability to merge technological concepts with my psychological expertise allows me to approach problems with a nuanced perspective, particularly in scenarios where human interaction is integral. 
+  My aim is to learn as much as I can in this field and put it into practice in some kind of work. So far I have learnt subjects that a few years ago seemed far away, such as programming, project management and databases. Now that they are closer, I find them even more fascinating.
 
   ## In summary
 
@@ -18,15 +16,7 @@
 
 -Currently diving deep into Software Analysis and Development, and I'm always looking for opportunities to expand my knowledge in different areas of programming.
 
--Eager to collaborate on diverse programming projects, particularly those that challenge me and help me grow. Whether it's a mobile app, web development, or software tools, I'm interested!
-
-### You can reach out to me via email at
-
-     mauriciomonroy@live.cl 
-     
- or
-    
-     mauricio.monroy0@soy.sena.edu.co
+-Eager to learn and collaborate on diverse programming projects, particularly those that challenge me and help me grow. Whether it's a mobile app, web development, or software tools, I'm interested!
 
 
 #### Fun fact
